@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## [![Mizux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizux&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/mizux)
+[![Mizux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizux&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/mizux)
 
-## [![Mizux's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizux&layout=compact&theme=github_dark&hide_title=true)](https://github.com/mizux)
+[![Mizux's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizux&layout=compact&theme=github_dark&hide_title=true)](https://github.com/mizux)
 
 <!--
 **Mizux/mizux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
